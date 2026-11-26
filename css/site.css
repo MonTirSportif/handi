@@ -433,3 +433,5 @@
 .tiles.disc .tile{position:relative}
 .tile-picto{position:absolute;top:.9rem;right:.9rem;width:40px;height:40px}
 .disc-strip a .strip-picto{width:22px;height:22px;flex:none}
+
+.tiles .olymp{white-space:normal;max-width:100%}
